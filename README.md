@@ -8,6 +8,8 @@ The project is designed to demonstrate production-style Data Engineering skills 
 
 🏗️ Architecture
 
+![Architecture ](images/architecture.png)
+
 Data Flow:
 ```
 Stock API
