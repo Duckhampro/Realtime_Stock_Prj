@@ -49,11 +49,3 @@ Visualization: Apache Superset
 
 Containerization: Docker & Docker Compose
 ```
-
-👤 Author
-
-Duckham
-Data Engineer
-
-⭐ If you find this project useful, feel free to star the repository!
-
