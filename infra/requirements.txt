@@ -1,0 +1,9 @@
+kafka-python
+boto3
+snowflake-connector-python
+dbt-core
+dbt-snowflake
+requests
+snowflake-sqlalchemy
+snowflake-connector-python
+Pillow
