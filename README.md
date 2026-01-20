@@ -8,7 +8,7 @@ The project is designed to demonstrate production-style Data Engineering skills 
 
 🏗️ Architecture
 
-![Architecture ](images/architecture.png)
+![Architecture ](Realtime_Stock_Architecture.png)
 
 Data Flow:
 ```
