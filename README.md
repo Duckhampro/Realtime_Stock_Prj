@@ -8,6 +8,7 @@ The project is designed to demonstrate production-style Data Engineering skills 
 🏗️ Architecture
 
 Data Flow:
+```
 Stock API
 │
 ▼
@@ -27,9 +28,10 @@ Snowflake(Bronze → Silver → Gold)
 │
 ▼
 Apache Superset (Dashboard)
+```
 
 🧰 Tech Stack
-
+```
 Programming Language: Python
 
 Streaming: Apache Kafka
@@ -45,6 +47,7 @@ Transformation: dbt (Bronze / Silver / Gold layers)
 Visualization: Apache Superset
 
 Containerization: Docker & Docker Compose
+```
 
 👤 Author
 
