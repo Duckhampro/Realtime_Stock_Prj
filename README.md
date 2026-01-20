@@ -1,4 +1,5 @@
 Realtime Stock Data Engineering Project
+
 📌 Overview
 
 This project implements an end-to-end real-time data engineering pipeline for stock market data. The system ingests real-time stock quotes, processes and transforms data using modern DE tools, and serves analytics-ready datasets for visualization.
