@@ -1,4 +1,9 @@
 Realtime Stock Data Engineering Project
+# 📈 My First Data Engineering Project — US Stock Market
+
+> Hello Guys, Welcome to My First DE Project!  
+> In this project I will create an **extraction, storage and BI system** for stock data.  
+> The project will focus on the **US stock market** — I will expand to other markets later. I hope you will accompany me! 
 
 
 
